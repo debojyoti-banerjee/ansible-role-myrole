@@ -5,12 +5,12 @@ galaxy_info:
   author: Debojyoti Banerjee
   description: Deploy static website using Apache httpd
   license: MIT
-  min_ansible_version: 2.9
+  min_ansible_version: "2.9"
   platforms:
     - name: EL
       versions:
-        - 7
-        - 8
-        - 9
+        - "7"
+        - "8"
+        - "9"
 
 dependencies: []

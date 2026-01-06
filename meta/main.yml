@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  role_name: myrole
+  namespace: debjoyoti_banerjee
+  author: Debjoyoti Banerjee
+  description: Deploy static website using Apache httpd
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+        - 9
+
+dependencies: []
